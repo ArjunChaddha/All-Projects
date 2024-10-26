@@ -1,4 +1,4 @@
-This is the code for all the projects I have worked on.
+This is the code for all the Python projects I have worked on.
 
 **INSTRUCTIONS FOR USING THE CODE**
 
